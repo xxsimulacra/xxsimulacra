@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @xxsimulacra
+- 👀 I’m interested in solidity programming/smart contract development
+- 🌱 I’m currently learning solidity progamming/smart contract development lol
+- 💞️ I’m looking to collaborate on solidity programming/smart contract development (third time's the charm)
+- 📫 How to reach me ... mamcmullen22@gmail.com
